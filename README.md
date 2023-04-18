@@ -1,4 +1,4 @@
-# Dashboard-PostgresSQL-Metabase-and-AWS
+# Dashboard- PostgresSQL, Metabase and AWS
 
 This dashboard summarize the sample Northwind Database; the data is about “Northwind Traders”, a fictional company. The database contains all sales transactions between the company and its customers as well as purchases from Northwinds suppliers. 
 
